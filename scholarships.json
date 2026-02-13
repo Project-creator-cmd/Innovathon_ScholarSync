@@ -29,6 +29,61 @@
     ]
   },
   {
+    "name": "University of Bath International Excellence Scholarships 2026",
+    "apply_link": "https://www.bath.ac.uk/campaigns/international-excellence-scholarships/",
+    "category": "International / Overseas Students",
+    "maxIncome": 99999999,
+    "educationLevel": "Undergraduate",
+    "deadline": "2026-06-25",
+    "startDate": "2026-01-08",
+    "scholarshipAmount": 969297,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be a new applicant",
+      "Must be assessed as an overseas fee-paying student",
+      "Must hold an offer from the University of Bath for an undergraduate course starting in September 2026",
+      "Scholarship not available for March Architecture degree applicants"
+    ],
+    "documentsRequired": [
+      "University offer letter",
+      "Academic transcripts",
+      "Passport copy",
+      "English language proficiency proof (if applicable)",
+      "Any documents required by the University of Bath during application process"
+    ]
+  },
+  {
+    "name": "DRDO DL Jodhpur Junior Research Fellowship and Research Associateship",
+    "apply_link": "https://www.drdo.gov.in/",
+    "category": "All",
+    "maxIncome": 9999999,
+    "educationLevel": "PG/PhD",
+    "deadline": "2026-07-10",
+    "startDate": "2026-06-01",
+    "scholarshipAmount": 67000,
+    "stackable": false,
+    "eligibilityRules": [
+      "For JRF: Age must not exceed 28 years",
+      "For RA: Age must not exceed 35 years",
+      "Age relaxation of 5 years for SC/ST/PwD and 3 years for OBC candidates",
+      "For JRF: First division B.E./B.Tech in Electronics/Communication/Computer Science with NET/GATE qualification",
+      "OR First division M.E./M.Sc./M.Tech in Electronics/Communication/Computer Science/Chemistry with CSIR-UGC NET, GATE, or JEST qualification",
+      "For RA: First division Ph.D in Physics/Electronics",
+      "OR 3 years research/teaching/design experience after PG with at least one SCI journal publication",
+      "Selection will be based on walk-in interview at DRDO Defence Laboratory, Jodhpur"
+    ],
+    "documentsRequired": [
+      "Birth certificate or 10th marksheet",
+      "Passport-size photographs",
+      "Government ID proof (Aadhaar or PAN card)",
+      "Academic transcripts and marksheets",
+      "GATE/NET/JEST scorecard",
+      "Caste/category/medical certificate (if applicable)",
+      "Experience certificate (if applicable)",
+      "No objection certificate (if employed)"
+    ]
+  },
+  {
     "name": "Aspire Leaders Program",
     "apply_link": "https://www.buddy4study.com/page/aspire-leaders-program",
     "category": "All Categories",
@@ -165,7 +220,7 @@
       "Indian citizen",
       "First-class degree",
       "Admission in foreign university",
-      "Course between Aug 2025 – Feb 2026",
+      "Course between Aug 2025 - Feb 2026",
       "Final year students can apply"
     ],
     "documentsRequired": [
@@ -302,7 +357,7 @@
   },
   {
     "name": "MynVidya Myntra Cares Scholarship",
-    "apply_link": "https://www.buddy4study.com/page/mynvidhya-myntra-cares-scholarship-program",
+    "apply_link": "https://www.buddy4study.com/page/mynvidya-myntra-cares-scholarship",
     "category": "Garment Workers / Artisans",
     "maxIncome": 500000,
     "educationLevel": "UG",
@@ -347,6 +402,126 @@
     ]
   },
   {
+    "name": "AICTE Pragati Scholarship for Girl Students",
+    "apply_link": "https://www.aicte-pragati-saksham-gov.in/",
+    "category": "Girls",
+    "maxIncome": 800000,
+    "educationLevel": "Diploma/UG Technical",
+    "deadline": "2026-12-31",
+    "startDate": "2026-09-01",
+    "scholarshipAmount": 50000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be a girl student",
+      "Must be admitted to first year of Diploma or Degree technical course",
+      "Family income must not exceed ₹8 lakh per annum",
+      "Maximum two girl children per family eligible",
+      "Admission must be through central/state counseling process"
+    ],
+    "documentsRequired": [
+      "Income certificate",
+      "Admission proof",
+      "Aadhaar card",
+      "Bank account details",
+      "Caste certificate (if applicable)"
+    ]
+  },
+  {
+    "name": "INSPIRE Scholarship for Higher Education",
+    "apply_link": "https://online-inspire.gov.in/",
+    "category": "All",
+    "maxIncome": 9999999,
+    "educationLevel": "UG Science",
+    "deadline": "2026-10-31",
+    "startDate": "2026-08-01",
+    "scholarshipAmount": 80000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be among top 1% in Class 12 board examination",
+      "Must be enrolled in UG course in Natural or Basic Sciences",
+      "Age between 17-22 years",
+      "Admission in recognized university/college"
+    ],
+    "documentsRequired": [
+      "Class 12 marksheet",
+      "Admission proof",
+      "Identity proof",
+      "Bank account details",
+      "Passport size photograph"
+    ]
+  },
+  {
+    "name": "Ishan Uday Special Scholarship Scheme for North Eastern Region",
+    "apply_link": "https://scholarships.gov.in/",
+    "category": "NER Students",
+    "maxIncome": 450000,
+    "educationLevel": "UG",
+    "deadline": "2026-11-30",
+    "startDate": "2026-09-01",
+    "scholarshipAmount": 5400,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be a domicile of North Eastern Region",
+      "Must have passed Class 12 from recognized board",
+      "Must be enrolled in first year of UG course",
+      "Family income must not exceed ₹4.5 lakh per annum"
+    ],
+    "documentsRequired": [
+      "Income certificate",
+      "Class 12 marksheet",
+      "Domicile certificate",
+      "Admission proof",
+      "Bank account details"
+    ]
+  },
+  {
+    "name": "Dr. APJ Abdul Kalam IGNITE Awards 2026",
+    "apply_link": "https://www.igniteawards.org/",
+    "category": "All",
+    "maxIncome": 9999999,
+    "educationLevel": "Class 6-10",
+    "deadline": "2026-02-28",
+    "startDate": "2025-12-01",
+    "scholarshipAmount": 100000,
+    "stackable": true,
+    "eligibilityRules": [
+      "Must be studying in Class 6 to 10",
+      "Indian citizen",
+      "Submit innovation/project idea",
+      "Project must be original and student-led"
+    ],
+    "documentsRequired": [
+      "Project description",
+      "Teacher recommendation",
+      "Parent/guardian consent",
+      "School ID/Admission proof"
+    ]
+  },
+  {
+    "name": "Fulbright-Nehru Master's Fellowships 2025",
+    "apply_link": "https://foreign.fulbrightonline.org/about/fulbright-nehru-fellowships",
+    "category": "All",
+    "maxIncome": 9999999,
+    "educationLevel": "PG Abroad",
+    "deadline": "2025-10-15",
+    "startDate": "2025-08-01",
+    "scholarshipAmount": 120000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be Indian citizen",
+      "Must have a first-class undergraduate degree",
+      "Academic excellence required",
+      "Must possess relevant work/research experience"
+    ],
+    "documentsRequired": [
+      "Statement of purpose",
+      "Letters of recommendation",
+      "Transcripts",
+      "English test scores",
+      "Research proposal"
+    ]
+  },
+  {
     "name": "Delhi Higher & Technical Education Support Scheme",
     "apply_link": "https://edistrict.delhigovt.nic.in/",
     "category": "All",
@@ -369,6 +544,202 @@
       "Admission proof",
       "Aadhaar",
       "Self declaration"
+    ]
+  },
+  {
+    "name": "Gates Cambridge Scholarships 2026",
+    "apply_link": "https://www.gatescambridge.org/apply/",
+    "category": "All",
+    "maxIncome": 99999999,
+    "educationLevel": "PG/PhD",
+    "deadline": "2026-12-08",
+    "startDate": "2026-08-01",
+    "scholarshipAmount": 3000000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be a citizen of any country outside the UK",
+      "Must apply for a full-time postgraduate degree at Cambridge",
+      "Must demonstrate academic excellence",
+      "Leadership potential and commitment to improving society"
+    ],
+    "documentsRequired": [
+      "Transcripts",
+      "Letters of recommendation",
+      "Statement of purpose",
+      "CV/Resume",
+      "English proficiency score (IELTS/TOEFL)"
+    ]
+  },
+  {
+    "name": "Rhodes Scholarships 2026",
+    "apply_link": "https://www.rhodeshouse.ox.ac.uk/scholarships/apply/",
+    "category": "All",
+    "maxIncome": 99999999,
+    "educationLevel": "PG",
+    "deadline": "2026-10-31",
+    "startDate": "2026-09-01",
+    "scholarshipAmount": 2500000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Open to international students for study at University of Oxford",
+      "Proven academic excellence",
+      "Demonstrated leadership and commitment to service",
+      "Strong references required"
+    ],
+    "documentsRequired": [
+      "Academic transcripts",
+      "Letters of recommendation",
+      "Personal statement",
+      "CV/Resume",
+      "Proof of English language ability"
+    ]
+  },
+  {
+    "name": "Chevening UK Scholarships 2026",
+    "apply_link": "https://www.chevening.org/apply/",
+    "category": "All",
+    "maxIncome": 99999999,
+    "educationLevel": "PG",
+    "deadline": "2026-11-03",
+    "startDate": "2026-08-01",
+    "scholarshipAmount": 3200000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be a citizen of a Chevening-eligible country",
+      "Must return home for at least 2 years after completion",
+      "Must have at least 2 years of work experience",
+      "Minimum undergraduate degree required"
+    ],
+    "documentsRequired": [
+      "Academic transcripts",
+      "Two references",
+      "CV/Resume",
+      "Personal statement",
+      "Proof of work experience"
+    ]
+  },
+  {
+    "name": "Fulbright Foreign Student Program 2027",
+    "apply_link": "https://foreign.fulbrightonline.org/about/foreign-fulbright",
+    "category": "All",
+    "maxIncome": 99999999,
+    "educationLevel": "PG/PhD",
+    "deadline": "2027-04-15",
+    "startDate": "2027-01-15",
+    "scholarshipAmount": 3000000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be a citizen of a participating country",
+      "Bachelor's degree required for master's or doctorate study",
+      "Strong academic record",
+      "Proof of English proficiency required"
+    ],
+    "documentsRequired": [
+      "Transcripts",
+      "Letters of recommendation",
+      "Personal statement",
+      "Standardized test scores (if required)",
+      "Proof of English language ability"
+    ]
+  },
+  {
+    "name": "Australia Awards Scholarships 2027",
+    "apply_link": "https://www.dfat.gov.au/people-to-people/australia-awards",
+    "category": "All",
+    "maxIncome": 99999999,
+    "educationLevel": "PG/PhD",
+    "deadline": "2027-02-28",
+    "startDate": "2027-10-01",
+    "scholarshipAmount": 2800000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be a citizen of eligible partner country",
+      "Must meet academic entry requirements",
+      "Proof of English language proficiency",
+      "Commitment to return to home country after completion"
+    ],
+    "documentsRequired": [
+      "Academic transcripts",
+      "References",
+      "Statement of purpose",
+      "English test score",
+      "CV/Resume"
+    ]
+  },
+  {
+    "name": "Erasmus Mundus Joint Masters Scholarship 2027",
+    "apply_link": "https://www.erasmusplus.org.uk/erasmus-mundus-joint-masters-degrees",
+    "category": "All",
+    "maxIncome": 99999999,
+    "educationLevel": "PG",
+    "deadline": "2027-01-31",
+    "startDate": "2027-09-01",
+    "scholarshipAmount": 2500000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be accepted into an Erasmus Mundus Master program",
+      "Bachelor's degree required",
+      "Excellent academic record",
+      "Requirements vary by consortium"
+    ],
+    "documentsRequired": [
+      "Transcripts",
+      "Letters of recommendation",
+      "Proof of admission",
+      "Motivation letter",
+      "Passport copy"
+    ]
+  },
+  {
+    "name": "Fulbright-Nehru Doctoral Research Fellowship",
+    "apply_link": "https://www.usief.org.in/Fulbright-Nehru-Doctoral-Research-Fellowships.aspx",
+    "category": "Research Abroad",
+    "maxIncome": 99999999,
+    "educationLevel": "PhD",
+    "deadline": "2027-07-15",
+    "startDate": "2027-02-01",
+    "scholarshipAmount": 3000000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be an Indian citizen",
+      "Must be registered for PhD at an Indian institution",
+      "Strong academic and research record required",
+      "Must have adequate research proposal",
+      "Must demonstrate leadership qualities"
+    ],
+    "documentsRequired": [
+      "Research proposal",
+      "Academic transcripts",
+      "Letters of recommendation",
+      "Passport copy",
+      "Employer endorsement (if applicable)"
+    ]
+  },
+  {
+    "name": "Andhra Pradesh ePASS Post-Matric Scholarship",
+    "apply_link": "https://jnanabhumi.ap.gov.in/",
+    "category": "SC/ST/BC/EBC/Minority",
+    "maxIncome": 200000,
+    "educationLevel": "UG/PG/Diploma",
+    "deadline": "2026-10-15",
+    "startDate": "2026-08-01",
+    "scholarshipAmount": 20000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must be an Andhra Pradesh resident",
+      "Belong to SC/ST/BC/EBC/Minority category",
+      "Must be enrolled in recognized college",
+      "Income below ₹2 lakh per annum",
+      "Minimum attendance required"
+    ],
+    "documentsRequired": [
+      "Aadhaar card",
+      "Income certificate",
+      "Caste certificate",
+      "Admission proof",
+      "Marksheets",
+      "Bank passbook",
+      "Fee receipt"
     ]
   }
 ]
