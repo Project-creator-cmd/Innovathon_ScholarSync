@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Mahindra Saarthi Abhiyaan Scholarship",
+    "apply_link": "https://www.buddy4study.com/page/mahindra-saarthi-abhiyaan-scholarship",
+    "category": "Truck Drivers Ward - Girls",
+    "maxIncome": 800000,
+    "educationLevel": "Class 11 to PG",
+    "deadline": "2026-02-10",
+    "startDate": "2025-12-01",
+    "scholarshipAmount": 10000,
+    "stackable": true,
+    "eligibilityRules": [
+      "Applicant must be a girl student",
+      "Must be the child/ward of a truck driver",
+      "Must be studying in Class 11, Class 12, ITI, Polytechnic, Diploma, UG or PG",
+      "Students across India are eligible",
+      "Children of Mahindra & Mahindra and Buddy4Study employees are not eligible",
+      "Students awaiting results can apply with previous marks"
+    ],
+    "documentsRequired": [
+      "Passport size photograph",
+      "Admission proof or Institution ID card",
+      "Previous year marksheet",
+      "Class 10 marksheet",
+      "Educational expense receipts",
+      "Identity proof (Aadhaar/Ration Card/Driving Licence)",
+      "Parent commercial driving licence",
+      "Bank passbook"
+    ]
+  },
+  {
+    "name": "Aspire Leaders Program",
+    "apply_link": "https://www.buddy4study.com/page/aspire-leaders-program",
+    "category": "All Categories",
+    "maxIncome": 500000,
+    "educationLevel": "UG/PG/Graduate",
+    "deadline": "2026-03-16",
+    "startDate": "2026-01-10",
+    "scholarshipAmount": 100000,
+    "stackable": true,
+    "eligibilityRules": [
+      "Applicants must be aged between 18 to 29 years",
+      "Open to students from low-income households or first-generation learners",
+      "Must be enrolled in or completed a college program",
+      "Open to all fields of study",
+      "Must be willing to participate in a 9-week online leadership program"
+    ],
+    "documentsRequired": [
+      "No documents required at application stage"
+    ]
+  },
+  {
+    "name": "Pre-Matric Scholarship for SC Students (Class 9 & 10) – Delhi",
+    "apply_link": "https://scholarships.gov.in/",
+    "category": "SC",
+    "maxIncome": 250000,
+    "educationLevel": "Class 9-10",
+    "deadline": "2026-05-31",
+    "startDate": "2026-01-01",
+    "scholarshipAmount": 7000,
+    "stackable": true,
+    "eligibilityRules": [
+      "Applicant must be an Indian citizen",
+      "Must belong to Scheduled Caste (SC) category",
+      "Must be a domicile of Delhi",
+      "Must be studying full-time in Class 9 or 10",
+      "Family income must be below ₹2.5 lakh per annum"
+    ],
+    "documentsRequired": [
+      "Passport size photograph",
+      "Previous exam mark sheets",
+      "Caste certificate",
+      "Income certificate",
+      "Academic transcripts"
+    ]
+  },
+  {
+    "name": "Merit Scholarship for SC/ST/OBC Students (College/Professional Institutions), Delhi",
+    "apply_link": "https://edistrict.delhigovt.nic.in/",
+    "category": "SC/ST/OBC/Minority",
+    "maxIncome": 300000,
+    "educationLevel": "Diploma/UG/PG",
+    "deadline": "2026-03-31",
+    "startDate": "2025-09-01",
+    "scholarshipAmount": 22320,
+    "stackable": true,
+    "eligibilityRules": [
+      "Must be Indian citizen and Delhi domicile",
+      "Belong to SC/ST/OBC/Minority",
+      "Minimum 60% marks in previous exam",
+      "Studying Diploma/UG/PG in professional or technical courses",
+      "Family income below ₹3,00,000 (Not applicable for SC/ST)",
+      "Students receiving stipends can also apply"
+    ],
+    "documentsRequired": [
+      "Caste certificate",
+      "Previous marksheet",
+      "Income certificate",
+      "Domicile certificate",
+      "Gap certificate (if any)"
+    ]
+  },
+  {
+    "name": "Dr. BR Ambedkar Scholarship for Topper Award, Delhi",
+    "apply_link": "https://edistrict.delhigovt.nic.in/",
+    "category": "SC/ST/OBC/Minority",
+    "maxIncome": 9999999,
+    "educationLevel": "Professional Degree",
+    "deadline": "2026-05-31",
+    "startDate": "2025-12-01",
+    "scholarshipAmount": 8000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Delhi domicile",
+      "Belong to SC/ST/OBC/Minority",
+      "Passed Class 10 & 12 from Delhi",
+      "Studying professional/technical degree",
+      "Must be topper in final year"
+    ],
+    "documentsRequired": [
+      "Caste certificate",
+      "Academic marksheets",
+      "Degree certificate"
+    ]
+  },
+  {
+    "name": "National Fellowship Scheme for SC Students (NFSC)",
+    "apply_link": "https://scholarships.gov.in/",
+    "category": "SC",
+    "maxIncome": 600000,
+    "educationLevel": "MPhil/PhD",
+    "deadline": "2026-12-20",
+    "startDate": "2026-01-01",
+    "scholarshipAmount": 42000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Must belong to SC category",
+      "Pursuing full-time MPhil or PhD",
+      "Qualified NET-JRF / CSIR-NET / GATE",
+      "Admission in UGC recognised institution",
+      "Cannot receive another fellowship simultaneously"
+    ],
+    "documentsRequired": [
+      "Caste certificate",
+      "NET/GATE scorecard",
+      "Admission letter",
+      "Research proposal",
+      "Marksheets",
+      "Bank details",
+      "Aadhaar",
+      "Photograph"
+    ]
+  },
+  {
+    "name": "K.C. Mahindra Scholarships for Post-Graduate Studies Abroad",
+    "apply_link": "https://www.kcmet.org/scholarship",
+    "category": "All",
+    "maxIncome": 9999999,
+    "educationLevel": "PG Abroad",
+    "deadline": "2025-04-11",
+    "startDate": "2025-01-01",
+    "scholarshipAmount": 1000000,
+    "stackable": true,
+    "eligibilityRules": [
+      "Indian citizen",
+      "First-class degree",
+      "Admission in foreign university",
+      "Course between Aug 2025 – Feb 2026",
+      "Final year students can apply"
+    ],
+    "documentsRequired": [
+      "Admission letter",
+      "Recommendation letter",
+      "GRE/GMAT",
+      "IELTS/TOEFL",
+      "Marksheets",
+      "CV",
+      "SOP"
+    ]
+  },
+  {
+    "name": "KSCSTE Prathibha Scholarship Programme",
+    "apply_link": "https://kscste.kerala.gov.in/",
+    "category": "All (Kerala Domicile)",
+    "maxIncome": 999999,
+    "educationLevel": "UG Science",
+    "deadline": "2025-06-05",
+    "startDate": "2024-09-01",
+    "scholarshipAmount": 60000,
+    "stackable": true,
+    "eligibilityRules": [
+      "Kerala domicile",
+      "Minimum 90% in HSC",
+      "Studying UG Science",
+      "SC/ST need 80%",
+      "Selection based on science marks"
+    ],
+    "documentsRequired": [
+      "HSE marksheet",
+      "Community certificate",
+      "Birth proof",
+      "Signed datasheet"
+    ]
+  },
+  {
+    "name": "Mahatma Jyothiba Phule Overseas Vidya Nidhi Scholarship",
+    "apply_link": "https://telanganaepass.cgg.gov.in/",
+    "category": "BC/EBC",
+    "maxIncome": 500000,
+    "educationLevel": "UG/PG/PhD Abroad",
+    "deadline": "2025-10-15",
+    "startDate": "2025-07-01",
+    "scholarshipAmount": 2000000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Telangana resident",
+      "Belong to BC/EBC",
+      "Age below 35",
+      "Minimum 60% marks",
+      "Admission abroad",
+      "Valid IELTS/TOEFL/GRE/GMAT/PTE"
+    ],
+    "documentsRequired": [
+      "Test scorecard",
+      "Degree certificates",
+      "Admission proof",
+      "Income certificate"
+    ]
+  },
+  {
+    "name": "National Means-cum-Merit Scholarship (Telangana)",
+    "apply_link": "https://bse.telangana.gov.in/",
+    "category": "All",
+    "maxIncome": 350000,
+    "educationLevel": "Class 8",
+    "deadline": "2025-10-18",
+    "startDate": "2025-09-01",
+    "scholarshipAmount": 12000,
+    "stackable": true,
+    "eligibilityRules": [
+      "Studying Class 8 in govt school",
+      "55% marks (50% SC/ST)",
+      "Income below ₹3.5 lakh",
+      "Must pass NMMS exam"
+    ],
+    "documentsRequired": [
+      "Marksheet",
+      "Income certificate",
+      "Caste certificate",
+      "Aadhaar",
+      "Bank details"
+    ]
+  },
+  {
+    "name": "Siddhartha Special Scholarship",
+    "apply_link": "https://jnanabhumi.ap.gov.in/",
+    "category": "All (AP Residents)",
+    "maxIncome": 25000,
+    "educationLevel": "UG/PG",
+    "deadline": "2025-11-15",
+    "startDate": "2025-08-01",
+    "scholarshipAmount": 50000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Andhra Pradesh resident",
+      "Admitted in national institutes",
+      "Consistent academic performance",
+      "Income below ₹25,000",
+      "Not receiving other aid"
+    ],
+    "documentsRequired": [
+      "Application form",
+      "Transcripts",
+      "Entrance rank proof",
+      "Admission proof",
+      "Fee receipt"
+    ]
+  },
+  {
+    "name": "Muthoot M George Higher Education Scholarship",
+    "apply_link": "https://www.buddy4study.com/page/muthoot-m-george-higher-education-scholarship",
+    "category": "All",
+    "maxIncome": 200000,
+    "educationLevel": "Professional UG",
+    "deadline": "2025-11-30",
+    "startDate": "2025-08-01",
+    "scholarshipAmount": 240000,
+    "stackable": true,
+    "eligibilityRules": [
+      "BTech/MBBS/Nursing students",
+      "90% in Class 12",
+      "Income below ₹2 lakh",
+      "Entrance qualified",
+      "Selected states eligible"
+    ],
+    "documentsRequired": [
+      "Marksheets",
+      "Entrance scorecard",
+      "Income certificate",
+      "Recommendation letter"
+    ]
+  },
+  {
+    "name": "MynVidya Myntra Cares Scholarship",
+    "apply_link": "https://www.buddy4study.com/page/mynvidhya-myntra-cares-scholarship-program",
+    "category": "Garment Workers / Artisans",
+    "maxIncome": 500000,
+    "educationLevel": "UG",
+    "deadline": "2026-02-15",
+    "startDate": "2025-09-01",
+    "scholarshipAmount": 20000,
+    "stackable": true,
+    "eligibilityRules": [
+      "Child of garment worker or artisan",
+      "60% in Class 12",
+      "Enrolled in graduation",
+      "Income below ₹5 lakh"
+    ],
+    "documentsRequired": [
+      "Income proof",
+      "Occupation certificate",
+      "Marksheets",
+      "Admission proof"
+    ]
+  },
+  {
+    "name": "DRDO SSPL Junior Research Fellowship",
+    "apply_link": "https://www.drdo.gov.in/",
+    "category": "All",
+    "maxIncome": 9999999,
+    "educationLevel": "PG/PhD",
+    "deadline": "2025-06-26",
+    "startDate": "2025-07-01",
+    "scholarshipAmount": 67000,
+    "stackable": false,
+    "eligibilityRules": [
+      "BTech/MTech/PhD in science fields",
+      "NET/GATE required",
+      "Age below 28 (JRF) / 35 (RA)"
+    ],
+    "documentsRequired": [
+      "Application form",
+      "Marksheets",
+      "ID proof",
+      "GATE/NET scorecard",
+      "Experience certificate"
+    ]
+  },
+  {
+    "name": "Delhi Higher & Technical Education Support Scheme",
+    "apply_link": "https://edistrict.delhigovt.nic.in/",
+    "category": "All",
+    "maxIncome": 300000,
+    "educationLevel": "UG",
+    "deadline": "2025-11-30",
+    "startDate": "2025-08-01",
+    "scholarshipAmount": 50000,
+    "stackable": false,
+    "eligibilityRules": [
+      "Delhi resident",
+      "75% in Class 12",
+      "UG in govt college",
+      "Income below ₹3 lakh",
+      "Not receiving other scholarships"
+    ],
+    "documentsRequired": [
+      "Income certificate",
+      "Marksheets",
+      "Admission proof",
+      "Aadhaar",
+      "Self declaration"
+    ]
+  }
+]
